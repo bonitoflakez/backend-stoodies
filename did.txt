@@ -1,0 +1,34 @@
+# BACKEND
+
+session 1
+
+how to setup a basic HTTP server
+how to use .env in nodejs projects
+how to use routes
+how to use express.json() -> body-parser
+how to access routes (curl thingy)
+how to setup routes separately
+how to write controllers in a different file
+
+session 2
+
+how to setup a project in mongodb
+how to setup databases and connect to one
+how to add data to database collection using nodejs
+how to fetch data from database collection using nodejs
+
+session 3
+
+how to update something (put)
+how to delete something (delete)
+
+session 4
+
+what are middlewares and why do we use it
+what is the use of next function
+
+# FRONTEND
+
+1. AXIOS
+2. Basic states
+3. Easy frontend? tailwind css
