@@ -29,6 +29,7 @@ what is the use of next function
 
 # FRONTEND
 
-1. AXIOS
-2. Basic states
-3. Easy frontend? tailwind css
+how to use fetch to perform CRUD operations on backend
+implemented API integration
+how to display data
+how to use states efficiently
